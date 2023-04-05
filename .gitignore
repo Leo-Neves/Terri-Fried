@@ -1,6 +1,10 @@
 # Prerequisites
 *.d
 
+# Highscore files
+*.bin
+*.sav
+
 # Compiled Object files
 *.slo
 *.lo
@@ -35,6 +39,9 @@
 # Misc files
 *.map
 *.lst
+
+# Linux files
+linux/build
 
 # Switch files
 *.nro
